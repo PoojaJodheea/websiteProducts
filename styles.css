@@ -1,0 +1,566 @@
+
+@font-face {
+    font-family: 'Formera Light';
+    src: url('fonts/Formera-Light.woff2') format('woff2'),
+         url('fonts/Formera-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+        font-family: 'Playfair Display SemiBold';
+        src: url('fonts/Playfair Display/static/PlayfairDisplay-SemiBold.ttf');
+        font-weight: normal;
+    font-style: normal;
+    }
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+         
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Playfair Display Regular';
+    src: url('fonts/Playfair Display/static/PlayfairDisplay-Regular.ttf');
+}
+@font-face {
+    font-family: 'PlayfairDisplay-Italic';
+    src: url('fonts/Playfair Display/PlayfairDisplay-Italic-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Garamond';
+    src: url('fonts/Garamond/EBGaramond-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grostesque Thin';
+    src: url('fonts/Brandon Grotesque/HvDTrial_Brandon_Grotesque_thin-BF64a625c9034b9.otf');
+}
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('fonts/Brandon Grotesque/HvDTrial_Brandon_Grotesque_regular-BF64a625c9311e1.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grotesque Light';
+    src: url('fonts/Brandon Grotesque/HvDTrial_Brandon_Grotesque_light-BF64a625c93e709.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grotesque 3';
+    src: url('fonts/Brandon Grotesque/HvDTrial_Brandon_Grotesque_medium-BF64a625c84a521.otf');
+}
+@font-face {
+    font-family: 'Garamond Medium';
+    src: url('fonts/Garamond/static/EBGaramond-Medium.ttf');
+   
+}
+@font-face {
+    font-family: 'Chronical Display Roman';
+    src: url('fonts/Chronicle\ Display/#5e3647');
+}
+@font-face {
+    font-family: 'Ogg Regular Italic';
+    src: url('fonts/ogg-font-family-1726099702-0/Ogg-RegularItalic-BF646c18fc462a5.otf');
+}
+@font-face {
+    font-family: 'Ogg Regular';
+    src: url('fonts/ogg-font-family-1726099702-0/Ogg-Regular-BF646c18fc3ed57.otf');
+}
+@font-face {
+    font-family: 'Ogg Regular 1';
+    src: url('fonts/ogg-font-family-1726099702-0/Ogg-Regular-BF646c18fc465e5.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Ogg Light';
+    src: url('fonts/ogg-font-family-1726099702-0/Ogg-Light-BF646c18fc54ff4.ttf');
+}
+@font-face {
+    font-family: 'Breathney';
+    src: url('fonts/breathney/Breathney\ Demo.ttf');
+}
+@font-face {
+    font-family: 'Ogg Medium';
+    src: url('fonts/ogg-font-family-1726099702-0/Ogg-Medium-BF646c18fc45bd0.ttf');
+}
+@font-face {
+    font-family: 'Ogg Thin';
+    src: url('fonts/ogg-font-family-1726099702-0/Ogg-Thin-BF646c18fc48f66.ttf');
+}
+body {
+    font-family: 'PlayfairDisplay-Italic', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f5f2; /* Soft light beige */
+    color: #333333; /* Dark gray */
+    position: relative; /* Ensure proper stacking context */
+}
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: rgba(255, 255, 255, 0.075); /* Semi-transparent white */
+    border-bottom: 1px solid #e0e0e000; /* Soft gray border */
+    z-index: 1; /* Ensure header content is above the video */
+    width: 100%;
+}
+
+.header-container {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    overflow: hidden;
+}
+
+.header-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; /* Behind header content */
+}
+
+/* Overlay on the video for better text readability */
+.header-background::before {
+    content: ''Playfair Display Regular';';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+    z-index: 0; /* Ensure it's behind text */
+}
+
+.hero {
+    position: relative;
+    width: 100%;
+    height: 300px; /* Adjust height based on your design */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: -5rem 0 2rem 0;
+    background-color: rgba(255, 255, 255, 0); /* Semi-transparent white for better text visibility */
+}
+
+.image-text-container {
+    margin: 0;
+    font-family: 'Ogg Regular';
+    font-weight: 200;
+    font-size: 1.4rem;
+    margin-left: 15px;
+    color: #171717; /* Dark gray */
+}
+
+.hero-text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem 0; /* Add padding to create space between video and text */
+    background-color: #ffffffef; /* Solid white background */
+    margin-top: -4px; /* Reduce the gap between video and text */
+}
+
+.hero-text-container h1 {
+    margin: 0;
+    font-family: 'Breathney', sans-serif;
+    font-size: 2.6rem;
+    color: #862a4f; /* Dark gray */
+}
+
+.hero-text-container p {
+    font-family: 'Playfair Display';
+    margin: 0.5rem 0;
+    font-size: 1.5rem;
+    color: #666666; /* Lighter gray for contrast */
+}
+
+.logo {
+    font-size: 1.2rem;
+    font-family: 'Breathney';
+    color: #552f42; /* Soft dark gray */
+    font-weight:  bold;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    position: relative;
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    justify-content: center; /* Center the nav links */
+    flex: 1;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #000000; /* Dark gray */
+    font-size: 0.88rem;
+    padding: 0.5rem 1rem;
+    font-family: 'Brandon Grotesque', sans-serif;
+    text-transform: uppercase;
+}
+
+.nav-links a:hover {
+    color: #e1abc4; /* Soft pink */
+    border-bottom: 2px solid #ffb0c7; /* Underline effect */
+}
+
+.header-icons {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-shrink: 0;
+}
+.header-icons a{
+    color: #000;
+    text-decoration: none;
+    font-size: 1rem;
+}
+.header-icons a:hover{
+    color: #9b1e46;
+}
+/* Search bar */
+.search-bar {
+    position: relative;
+}
+.search-bar input {
+    padding: 5px 30px 5px 10px;
+    font-size: 1rem;
+    border: 1px solid #efefef1e;
+    border-radius: 4px;
+    background-color: #1c141422;
+}
+.search-bar button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+.search-bar button img {
+    width: 20px;
+    height: 20px;
+    margin: 0.4rem 0.5rem;
+}
+.search-bar button img:hover{
+    border-bottom: 2px solid #931a3d;
+}
+
+/* Cart icon */
+.cart-icon{
+    position: relative;
+    padding-right: 15px; /* Adds some space to the right of the cart icon */
+}
+.cart-icon img {
+    width: 23px;
+    height: 23px;
+}
+.cart-count {
+    position: relative;
+    top: -5px;
+    right: -5px;
+    background-color: #ff3366;
+    color: white;
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2px auto;
+}
+.cart-icon img:hover{
+    color: #9b1e46;
+    border-bottom: 2px solid #931a3d;
+}
+
+.icon {
+    width: 22px; /* Adjust size as needed */
+    height: 22px;
+    cursor: pointer;
+}
+/* Styles for the scroll buttons */
+.prev-btn, .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.prev-btn {
+    left: 0;
+}
+
+.next-btn {
+    right: 0;
+}
+
+/* Updated styles for scrollable products */
+.image-slider {
+    display: flex;
+    overflow-x: hidden;
+    width: 100%;
+    position: relative;
+    white-space: nowrap; /* Prevent wrapping */
+    padding: 1rem 0; /* Add some padding */
+    scrollbar-width: thin; /* For Firefox */
+    -ms-overflow-style: none;  /* For Internet Explorer and Edge */
+}
+.slider-container {
+    display: inline-flex;
+    gap: 1rem;
+    transition: transform 0.4s ease-in-out;
+}
+
+.image-slider::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for WebKit browsers */
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.product {
+    display: inline-block; /* Inline block to ensure horizontal alignment */
+    width: 200px; /* Fixed width for each product */
+    margin-right: -5rem 0 0.5rem 0; /* Spacing between products */
+    transition: transform 0.3s ease-in-out;
+    flex: 0 0 200px;
+    text-align: center;
+    font-family: 'Brandon Grotesque';
+    background-color: #ffffff;
+}
+.product a {
+    text-decoration: none;
+    color: inherit; /* Inherit colors from the parent element */
+}
+
+.product img {
+    width: 100%; /* Full width for each product image */
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.product.product:hover{
+    transform: scale(1.05); /* Zoom effect on hover */
+}
+
+.product-details {
+    padding: 0.5rem 0;
+    color: #333;
+}
+
+.product-name {
+    font-size: 1rem;
+    margin: 0.2rem 0;
+}
+
+.product-price {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #5e3647;
+}
+
+.product-rating {
+    color: #935f77; /* Soft pink color for stars */
+    font-size: 0.9rem;
+}
+
+.prev-btn, .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.prev-btn {
+    left: 0;
+}
+
+.next-btn {
+    right: 0;
+}
+/* Our Story Section */
+.our-story-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 20px;
+    background-color: #fff;
+}
+
+.story-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    gap: 40px;
+}
+
+.story-text {
+    flex: 1;
+    padding: 20px;
+    font-family: 'Chronicle Display A';
+}
+
+.story-text h2 {
+    font-size: 3em;
+    font-family: 'Ogg Regular';
+    margin-bottom: 20px;
+    font-weight: 400;
+    color: #333;
+}
+
+.story-text p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.learn-more-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #ff3366;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.learn-more-btn:hover {
+    background-color: #ff6688;
+}
+
+.story-image {
+    flex: 1;
+}
+
+.story-image img {
+    width: 100%;
+    border-radius: 50px;
+}
+
+footer {
+    background-color: #ffffff; /* White background */
+    color: #333333; /* Dark gray text */
+    padding: 2rem 1rem;
+    text-align: center;
+    border-top: 1px solid #e0e0e0; /* Soft gray border on top */
+}
+
+.footer-content {
+    max-width: 1200px; /* Align with the main content width */
+    margin: 0 auto; /* Center align footer content */
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.footer-links li {
+    display: inline;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #333333; /* Dark gray text */
+    font-size: 0.9rem;
+}
+
+.footer-links a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .nav-links {
+        display: contents; 
+    }
+
+    .menu-toggle {
+        display: block;
+        font-size: 1.5rem;
+        cursor: pointer;
+        margin-right: 1rem;
+    }
+
+    .menu-toggle.active + .nav-links {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .header-icons {
+        flex-direction: row;
+        justify-content: flex-end;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header-icons img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .search-bar input {
+        width: 120px;
+    }
+
+    .nav-links a {
+        font-size: 0.75rem;
+    }
+}
+
+
+
+
+
+
