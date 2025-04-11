@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category name="Face">
+        <subcategory name="Foundation">
+            <product>
+                <id>1</id>
+                <name>Fenty Beauty Pro Filt’r Soft Matte Longwear Foundation</name>
+                <brand>Fenty Beauty</brand>
+                <description>A soft matte foundation with buildable coverage.</description>
+                <price>20.24</price>
+                <rating>4.5</rating>
+                <image>pics/f1.jpg</image>
+            </product>
+            <product>
+                <id>2</id>
+                <name>Estée Lauder Double Wear Stay-in-Place Foundation</name>
+                <brand>Estée Lauder</brand>
+                <description>A 24-hour wear foundation that looks flawless.</description>
+                <price>23.86</price>
+                <rating>4.7</rating>
+                <image>pics/f2.jpg</image>
+            </product>
+            <product>
+                <id>3</id>
+                <name>NARS Natural Radiant Longwear Foundation</name>
+                <brand>NARS</brand>
+                <description>A lightweight foundation that delivers a natural finish.</description>
+                <price>22.89</price>
+                <rating>4.6</rating>
+                <image>pics/f3.webp</image>
+            </product>
+            <product>
+                <id>4</id> 
+                <name>L’Oréal Infallible Pro-Matte Foundation</name>
+                <brand>L’Oréal</brand>
+                <description>A lightweight foundation with a matte finish.</description>
+                <price>14.46</price>
+                <rating>4.3</rating>
+                <image>pics/f4.jpg</image>
+            </product>
+        </subcategory>
+
+        <subcategory name="Concealer">
+            <product>
+                <id>11</id>
+                <name>Tarte Shape Tape Concealer</name>
+                <brand>Tarte</brand>
+                <description>A full-coverage concealer that brightens and smooths.</description>
+                <price>18.67</price>
+                <rating>4.8</rating>
+                <image>conceal1.jpeg</image>
+            </product>
+            <product>
+                <id>12</id>
+                <name>NARS Radiant Creamy Concealer</name>
+                <brand>NARS</brand>
+                <description>A creamy concealer that provides hydration and coverage.</description>
+                <price>22.89</price>
+                <rating>4.7</rating>
+                <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/10785711-1215150958134010.jpg</image>
+            </product>
+        </subcategory>
+
+        <subcategory name="Primer">
+            <product>
+                <id>21</id>
+                <brand>Fenty Beauty</brand>
+                <name>Pro Filt'r Instant Retouch Primer</name>
+                <description>A pore-diffusing primer that smooths and refines skin texture.</description>
+                <price>20.24</price>
+                <image>https://www.sephora.qa/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwa17f07af/images/hi-res/SKU/SKU_5/398368_swatch.jpg</image>
+                <rating>4.0</rating>
+            </product>
+            <product>
+                <id>22</id>
+                <brand>Benefit Cosmetics</brand>
+                <name>The POREfessional Face Primer</name>
+                <description>A mattifying primer that minimizes the appearance of pores.</description>
+                <price>16.45</price>
+                <image>https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwce91c0ab/product_images/THEPOIB184/Main_full_porefessional.jpg</image>
+                <rating>3.0</rating>
+            </product>
+        </subcategory>
+
+        <subcategory name="Highlighter">
+            <product>
+                <id>31</id>
+                <name>Shimmering Skin Perfector Pressed Highlighter</name>
+                <brand>Becca</brand>
+                <description>A silky powder highlighter for a radiant glow.</description>
+                <price>22.29</price>
+                <rating>4.5</rating>
+                <image>https://www.sephora.com/productimages/sku/s2504389-main-zoom.jpg?imwidth=612</image>
+            </product>
+            <product>
+                <id>32</id>
+                <name>Killawatt Freestyle Highlighter</name>
+                <brand>Fenty Beauty</brand>
+                <description>A creamy highlighter that glows and shines.</description>
+                <price>19.28</price>
+                <rating>3.8</rating>
+                <image>https://www.sephora.com/productimages/sku/s1925916-main-zoom.jpg?imwidth=612</image>
+            </product>
+            <product>
+                <id>33</id>
+                <name>Amrezy Highlighter</name>
+                <brand>Anastasia Beverly Hills</brand>
+                <description>A universal highlighter for a lit-from-within glow.</description>
+                <price>25.30</price>
+                <rating>4.6</rating>
+                <image>https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13309213-1525169372489063.jpg-format=webp-auto=avif-width=985-height=985-fit=cover</image>
+            </product>
+        </subcategory>
+    </category>
+
+    <category name="Eye">
+      <subcategory name="Eye Palette">
+       <product>
+         <id>69</id>
+         <name>Modern Renaissance Eyeshadow Palette</name>
+         <brand>Anastasia Beverly Hills</brand>
+         <description>A versatile eyeshadow palette with rich pigments.</description>
+         <price>28.92</price>
+         <rating>0.0</rating>
+         <image>https://www.sephora.com/productimages/sku/s1820406-main-zoom.jpg?imwidth=612</image>
+      </product>
+
+    <product>
+        <id>70</id>
+        <name>The New Nude Eyeshadow Palette</name>
+        <brand>Huda Beauty</brand>
+        <description>A palette featuring soft pinks and warm neutrals.</description>
+        <price>33.73</price>
+        <rating>0.0</rating>
+        <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_202146_20Huda_20Beauty_20Nude_20Eyeshadow_20Palette_cc6abca4a954771037c2281e8199afbc0cc9563f_1540974277.png</image>
+   </product>
+
+    <product>
+       <id>71</id>
+       <name>Chocolate Bar Eyeshadow Palette</name>
+       <brand>Too Faced</brand>
+       <description>A palette with a mix of matte and shimmer shades.</description>
+       <price>27.71</price>
+       <rating>0.0</rating>
+       <image>https://www.sephora.com/productimages/sku/s2600856-main-zoom.jpg?imwidth=612</image>
+    </product>
+
+   <product>
+       <id>72</id>
+       <name>Naked Palette</name>
+       <brand>Urban Decay</brand>
+       <description>A neutral eyeshadow palette with versatile shades.</description>
+       <price>36.14</price>
+       <rating>0.0</rating>
+       <image>https://m.media-amazon.com/images/I/618yMJotmdL._AC_SL1355_.jpg</image>
+   </product>
+
+<product>
+    <id>73</id>
+    <name>Biba Eyeshadow Palette</name>
+    <brand>Natasha Denona</brand>
+    <description>A palette featuring a mix of warm and cool tones.</description>
+    <price>48.19</price>
+    <rating>0.0</rating>
+    <image>https://www.sephora.co.uk/img/products/101391/alternative/Natasha_Denona_Biba_Blush__amp__Highlight_Palette_37_5g_0_1547463786.jpg</image>
+</product>
+
+<product>
+    <id>74</id>
+    <name>Eye Shadow Stick</name>
+    <brand>Oh My Cream Skincare</brand>
+    <description>A stick shadow to deposit a veil of light on the eyelids, which glides on effortlessly and blends easily for a slightly glittery, natural finish.</description>
+    <price>27.67</price>
+    <rating>0.0</rating>
+    <image>https://www.ohmycream.com/cdn/shop/files/Ombre-a-paupieres-OMCS-_1_700x.jpg?v=1699527595</image>
+</product>
+
+<product>
+    <id>75</id>
+    <name>Sweet Talk Eyeshadow Palette</name>
+    <brand>ColourPop</brand>
+    <description>A palette with warm peach and coral tones.</description>
+    <price>14.46</price>
+    <rating>0.0</rating>
+    <image>https://storage.beautyfulls.com/uploads-1/sg-press/600x/phan-mat-colourpop-sweet-talk-107634.webp</image>
+</product>
+
+<product>
+    <id>76</id>
+    <name>Cover Shot Eyeshadow Palette</name>
+    <brand>Smashbox</brand>
+    <description>A compact palette for on-the-go looks.</description>
+    <price>18.07</price>
+    <rating>0.0</rating>
+    <image>https://target.scene7.com/is/image/Target/GUEST_391e4c8c-fa7f-4b0e-af8d-888bb59acca0?wid=1200-hei=1200-qlt=80-fmt=webp</image>
+</product>
+
+<product>
+    <id>77</id>
+    <name>Loaded Eyeshadow Palette</name>
+    <brand>NARS</brand>
+    <description>A palette with rich jewel tones and versatile shades.</description>
+    <price>27.71</price>
+    <rating>0.0</rating>
+    <image>https://www.temptalia.com/wp-content/uploads/2017/02/nars_loaded_001_palette.jpg</image>
+</product>
+
+<product>
+    <id>78</id>
+    <name>Nudes Eyeshadow Palette</name>
+    <brand>Maybelline</brand>
+    <description>A palette featuring nude shades for everyday looks.</description>
+    <price>11.45</price>
+    <rating>0.0</rating>
+    <image>https://of.nice-cdn.com/upload/image/product/large/default/3967_5ca0315e.768x768.jpg</image>
+</product>
+
+ </subcategory>
+    <subcategory name="Mascara">
+        <product>
+            <id>39</id>
+            <name>Better Than Sex Mascara</name>
+            <brand>Too Faced</brand>
+            <description>A volumizing mascara that delivers dramatic lashes.</description>
+            <price>15.66</price>
+            <rating>3.7</rating>
+            <image>https://www.toofaced.co.uk/media/export/cms/products/1000x1000/2f_sku_94240_1000x1000_0.jpg</image>
+       </product>
+            <product>
+                <id>40</id>
+                <name>Limitless Lash Lengthening Clean Mascara</name>
+                <brand>ILIA</brand>
+                <description>A clean mascara that lengthens, lifts, and separates.</description>
+                <price>9.64</price>
+                <rating>4.9</rating>
+                <image>pics\lashMascara.webp</image>
+            </product>
+            <product>
+                <id>41</id>
+                <name>They're Real! Lengthening Mascara</name>
+                <brand>Benefit Cosmetics</brand>
+                <description>A mascara that lengthens and curls lashes.</description>
+                <price>18.67</price>
+                <rating>4.4</rating>
+                <image>https://www.sephora.com/productimages/sku/s1343938-main-zoom.jpg?imwidth=612</image>
+            </product>
+            <product>
+                <id>42</id>
+                <name>Mascara</name>
+                <brand>Oh My Cream Skincare</brand>
+                <description>A mascara that you can build up for a more intense result or apply in just one coat for a more natural finish. Immediate volume and enhanced definition for even the finest eyelashes.</description>
+                <price>27.67</price>
+                <rating>4.1</rating>
+                <image>https://www.ohmycream.com/cdn/shop/products/3664529000711_Packshot_Mascara_OMCS_700x.jpg?v=1654633862</image>
+            </product>
+            <product>
+                <id>43</id>
+                <name>Climax Mascara</name>
+                <brand>NARS</brand>
+                <description>A volumizing mascara that delivers intense black color.</description>
+                <price>22.29</price>
+                <rating>4.5</rating>
+                <image>https://www.sephora.com/productimages/sku/s2090090-main-zoom.jpg?imwidth=612</image>
+            </product>
+            <product>
+                <id>44</id>
+                <name>Lights, Camera, Lashes 4-in-1 Mascara</name>
+                <brand>Tarte</brand>
+                <description>A mascara that lengthens, curls, volumizes, and conditions.</description>
+                <price>15.66</price>
+                <rating>4.3</rating>
+                <image>https://www.sephora.com/productimages/sku/s862417-main-zoom.jpg?imwidth=612</image>
+            </product>
+            <product>
+                <id>45</id>
+                <name>Perversion Mascara</name>
+                <brand>Urban Decay</brand>
+                <description>A blacker-than-black mascara that creates volume.</description>
+                <price>21.08</price>
+                <rating>4.8</rating>
+                <image>https://www.sephora.ae/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw5a9a2541/images/hi-res/SKU/SKU_3/306585_swatch.jpg</image>
+            </product>
+            <product>
+                <id>46</id>
+                <name>Full Frontal Volume, Lift Curl Mascara</name>
+                <brand>Fenty Beauty</brand>
+                <description>A mascara that lifts and curls for fuller-looking lashes.</description>
+                <price>19.88</price>
+                <rating>3.9</rating>
+                <image>https://www.sephora.com/productimages/sku/s2294312-main-zoom.jpg?imwidth=612</image>
+            </product>
+            <product>
+                <id>47</id>
+                <name>Super Fan Fanned-Out Mascara</name>
+                <brand>Smashbox</brand>
+                <description>A mascara that separates and lengthens lashes.</description>
+                <price>22.29</price>
+                <rating>4.7</rating>
+                <image>https://media.ulta.com/i/ulta/2526286?w=1080h=1080fmt=auto</image>
+            </product>
+            <product>
+                <id>48</id>
+                <name>Full Fat Lashes 5 Star Mascara</name>
+                <brand>Charlotte Tilbury</brand>
+                <description>A volumizing mascara that lengthens and defines.</description>
+                <price>25.30</price>
+                <rating>3.6</rating>
+                <image>https://www.sephora.fr/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwe6f7f35a/images/hi-res/SKU/SKU_890/442082_swatch.jpg?sw=585-sh=585sm=fit</image>
+            </product>
+        </subcategory>
+
+        <subcategory name="Eyeliner">
+            <product>
+        <id>49</id>
+        <name>Stay All Day Waterproof Liquid Eye Liner</name>
+        <brand>Stila</brand>
+        <description>A waterproof eyeliner that stays all day.</description>
+        <price>14.46</price>
+        <rating>8</rating>
+        <image>https://www.sephora.com/productimages/sku/s1221084-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>50</id>
+        <name>Tattoo Liner</name>
+        <brand>Kat Von D</brand>
+        <description>A long-lasting liquid eyeliner with a precise tip.</description>
+        <price>20.48</price>
+        <rating>8</rating>
+        <image>https://www.sephora.com/productimages/sku/s2781599-main-zoom.jpg?imwidth=465</image>
+    </product>
+    <product>
+        <id>51</id>
+        <name>24/7 Glide-On Eye Pencil</name>
+        <brand>Urban Decay</brand>
+        <description>A creamy eyeliner that glides on smoothly.</description>
+        <price>19.28</price>
+        <rating>8</rating>
+        <image>https://www.sephora.sa/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwe7704f12/images/hi-res/SKU/SKU_2/242570_swatch.jpg?sw=585-sh=585-sm=fit</image>
+    </product>
+    <product>
+        <id>52</id>
+        <name>Highliner Gel Eye Crayon</name>
+        <brand>Marc Jacobs</brand>
+        <description>A gel eyeliner that offers bold color and long wear.</description>
+        <price>25.30</price>
+        <rating>8</rating>
+        <image>https://m.media-amazon.com/images/I/21U-ilQcMrL._QL70_FMwebp_.jpg</image>
+    </product>
+    <product>
+        <id>53</id>
+        <name>They're Real! Push-Up Liner</name>
+        <brand>Benefit Cosmetics</brand>
+        <description>A gel liner that hugs the lash line.</description>
+        <price>18.07</price>
+        <rating>8</rating>
+        <image>https://www.aeliadutyfree.fr/media/image/1200x/aelia-duty-free-benefit-benefit-they-re-real-push-up-liner-100340729-fr-38b9506ef751989ef15f6290e0ca53948dd684b1_100340729_1-1.jpg</image>
+    </product>
+    <product>
+        <id>54</id>
+        <name>Epic Ink Liner</name>
+        <brand>NYX</brand>
+        <description>A waterproof eyeliner that provides precise application.</description>
+        <price>9.64</price>
+        <rating>8</rating>
+        <image>https://media.ulta.com/i/ulta/2501971?w=1080-h=1080-fmt=auto</image>
+    </product>
+    <product>
+        <id>55</id>
+        <name>Grandiôse Liner</name>
+        <brand>Lancome</brand>
+        <description>A flexible eyeliner for a perfect wing.</description>
+        <price>23.49</price>
+        <rating>8</rating>
+        <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_21977_Lancome_Web_4a633535a6b3e99d78895c5e8c09834e0dbff422_1523777685.png</image>
+    </product>
+    <product>
+        <id>56</id>
+        <name>Infallible Pro-Last Waterproof Eyeliner</name>
+        <brand>L’Oréal</brand>
+        <description>A waterproof eyeliner that lasts for 24 hours.</description>
+        <price>10.84</price>
+        <rating>8</rating>
+        <image>https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/loe/loe35725/v/11.jpg</image>
+    </product>
+    <product>
+        <id>57</id>
+        <name>Pretty Easy Liquid Eyelining Pen</name>
+        <brand>Clinique</brand>
+        <description>A liquid eyeliner with a fine tip for easy application.</description>
+        <price>18.07</price>
+        <rating>8</rating>
+        <image>https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_V4R301_1200x1500_0.png</image>
+    </product>
+    <product>
+        <id>58</id>
+        <name>DiorShow Art Pen</name>
+        <brand>Dior</brand>
+        <description>A precision eyeliner with a felt-tip applicator.</description>
+        <price>28.92</price>
+        <rating>8</rating>
+        <image>https://www.beautybuys.com/media/catalog/product/cache/39943af0042da80245beeebb3d36feeb/h/t/httpbodyscent.iebeautybuysproductschristian-diordio140836-christian-dior-diorshow-art-pen-felt-tip-pen-black-1.1ml_1.jpg</image>
+    </product>
+        </subcategory>
+        <subcategory name="Eyebrow">
+           <product>
+        <id>59</id>
+        <name>Brow Wiz</name>
+        <brand>Anastasia Beverly Hills</brand>
+        <description>A retractable pencil for precise application.</description>
+        <price>16.87</price>
+        <rating>6</rating>
+        <image>https://www.sephora.com/productimages/sku/s2372530-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>60</id>
+        <name>Precisely, My Brow Pencil</name>
+        <brand>Benefit Cosmetics</brand>
+        <description>A fine-tipped brow pencil for natural-looking brows.</description>
+        <price>18.67</price>
+        <rating>6</rating>
+        <image>https://www.sephora.com/productimages/sku/s2086759-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>61</id>
+        <name>Micro Brow Pencil</name>
+        <brand>NYX</brand>
+        <description>A precise pencil that fills in and defines brows.</description>
+        <price>9.64</price>
+        <rating>6</rating>
+        <image>https://media.ulta.com/i/ulta/2284049?w=1080-h=1080-fmt=auto</image>
+    </product>
+    <product>
+        <id>62</id>
+        <name>Amazonian Clay Brow Gel</name>
+        <brand>Tarte</brand>
+        <description>A long-wearing brow gel that holds brows in place.</description>
+        <price>15.66</price>
+        <rating>6</rating>
+        <image>https://images.chickadvisor.com/item/40424/375/i/tarte-amazonian-clay-waterproof-brow-mousse-1.jpg?ic=4</image>
+    </product>
+    <product>
+        <id>63</id>
+        <name>Brow Stylist Definer</name>
+        <brand>L’Oréal</brand>
+        <description>A pencil for defining and filling in brows.</description>
+        <price>10.24</price>
+        <rating>6</rating>
+        <image>https://target.scene7.com/is/image/Target/GUEST_dfee8198-375a-40d9-a80f-53a727e4dc4d?wid=1200-hei=1200-qlt=80-fmt=webp</image>
+    </product>
+    <product>
+        <id>64</id>
+        <name>Arch Brow Sculpting Pencil</name>
+        <brand>Hourglass</brand>
+        <description>A dual-ended pencil for shaping and filling brows.</description>
+        <price>26.51</price>
+        <rating>6</rating>
+        <image>https://www.sephora.com/productimages/sku/s1454271-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>65</id>
+        <name>Brow Lift</name>
+        <brand>Charlotte Tilbury</brand>
+        <description>A brow pencil with a built-in brush for blending.</description>
+        <price>23.86</price>
+        <rating>6</rating>
+        <image>https://cdn1.feelunique.com/img/products/132007/charlotte_tilbury_brow_lift_1_2g_1617015442.jpg</image>
+    </product>
+    <product>
+        <id>66</id>
+        <name>Easy Brow Pencil</name>
+        <brand>Milani</brand>
+        <description>A pencil that glides on easily for precise application.</description>
+        <price>7.23</price>
+        <rating>6</rating>
+        <image>https://target.scene7.com/is/image/Target/GUEST_88cc95aa-5b81-4206-a79e-3c7e0efec35e?wid=1200-hei=1200-qlt=80-fmt=webp</image>
+    </product>
+    <product>
+        <id>67</id>
+        <name>Gimme Brow Volumizing Fiber Gel</name>
+        <brand>Benefit Cosmetics</brand>
+        <description>A tinted brow gel that adds volume and shape.</description>
+        <price>18.07</price>
+        <rating>6</rating>
+        <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/zoom_1_Product_602004103116-Benefit-Gimme-Brow-Brow-Volumizing-Fiber-Gel-All-Shades_caec9b6766e2b7be94ce1d04234f72c6ff7c1221_1563853570.png</image>
+    </product>
+    <product>
+        <id>68</id>
+        <name>Brow MVP</name>
+        <brand>Fenty Beauty</brand>
+        <description>A pencil and styler that shapes and fills brows.</description>
+        <price>22.29</price>
+        <rating>6</rating>
+        <image>https://www.sephora.com/productimages/sku/s2268548-main-zoom.jpg?imwidth=612</image>
+    </product>
+        </subcategory>
+    </category>
+
+    <category name="Lip">
+        <subcategory name="Lipstick">
+            <product>
+              <id>89</id>
+              <name>Audacious Lipstick</name>
+              <brand>NARS</brand>
+              <description>A creamy lipstick that provides full coverage.</description>
+              <price>22.89</price>
+               <rating>0.0</rating>
+               <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dwb4441be2/hi-res/0607845094616.jpg?sw=856-sh=750-sm=fit</image>
+           </product>
+         <product>
+            <id>90</id>
+            <name>Matte Revolution Lipstick</name>
+            <brand>Charlotte Tilbury</brand>
+            <description>A long-lasting lipstick with a matte finish.</description>
+            <price>25.30</price>
+            <rating>0.0</rating>
+            <image>https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dwab729d4b/products/CHARLOTTE/UK200027343_CHARLOTTE.jpg?sw=582-sh=582</image>
+         </product>
+         <product>
+           <id>91</id>
+           <name>Mattemoiselle Plush Matte Lipstick</name>
+           <brand>Fenty Beauty</brand>
+           <description>A long-lasting matte lipstick in various shades.</description>
+           <price>16.27</price>
+           <rating>0.0</rating>
+           <image>https://lookincredible.co.uk/cdn/shop/files/fenty-beauty-mattemoiselle-plush-matte-lipstickfenty-beautylookincredible-233147.jpg?v=1715877649-width=500</image>
+      </product>
+      <product>
+           <id>92</id>
+           <name>Lipstick</name>
+           <brand>Mac</brand>
+           <description>A classic lipstick with a wide range of shades.</description>
+           <price>24.10</price>
+           <rating>0.0</rating>
+           <image>https://m.media-amazon.com/images/I/61fOxT5g75L._SL1500_.jpg</image>
+     </product>
+     <product>
+        <id>93</id>
+        <name>Rouge Dior Lipstick</name>
+        <brand>Dior</brand>
+        <description>A hydrating lipstick that provides long-lasting wear.</description>
+        <price>30.12</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2789386-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>94</id>
+        <name>SuperStay Matte Ink Liquid Lipstick</name>
+        <brand>Maybelline</brand>
+        <description>A long-lasting liquid lipstick with a matte finish.</description>
+        <price>11.45</price>
+        <rating>0.0</rating>
+        <image>https://media.ulta.com/i/ulta/2510218?w=1080-h=1080-fmt=auto</image>
+    </product>
+    <product>
+        <id>95</id>
+        <name>Amuse Bouche Lipstick</name>
+        <brand>Bite Beauty</brand>
+        <description>A nourishing lipstick with a creamy texture.</description>
+        <price>19.28</price>
+        <rating>0.0</rating>
+        <image>https://media.allure.com/photos/5cb774e1bff1e604dabc3f35/master/pass/bite-beauty-amuse-bouche-lipstick.jpg</image>
+    </product>
+    <product>
+        <id>96</id>
+        <name>Amazonian Butter Lipstick</name>
+        <brand>Tarte</brand>
+        <description>A creamy lipstick that provides hydration and color.</description>
+        <price>16.27</price>
+        <rating>0.0</rating>
+        <image>https://dy6g3i6a1660s.cloudfront.net/fMY3u-w85AuddZteZtmsTgHCAcI/p_550x550-ce/tarte-amazonian-butter-lipstick-coral-blossom.jpg</image>
+    </product>
+    <product>
+        <id>97</id>
+        <name>Peach Kiss Moisture Matte Longwear Lipstick</name>
+        <brand>Too Faced</brand>
+        <description>A matte lipstick with a moisturizing formula.</description>
+        <price>22.29</price>
+        <rating>0.0</rating>
+        <image>https://www.makeupgallery.pk/cdn/shop/files/0o9i_6d51399d-ca87-44ba-8dd2-aadd6e1feaeb.gif?v=1709826203-width=800</image>
+    </product>
+    <product>
+        <id>98</id>
+        <name>Pop Lip Colour + Primer</name>
+        <brand>Clinique</brand>
+        <description>A lipstick that provides color and hydration.</description>
+        <price>18.67</price>
+        <rating>0.0</rating>
+        <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_6750_Clinique_WEB_31f9897509a901b89edc405eb1de16d12faf2a8a_1523776805.png</image>
+    </product>
+        </subcategory>
+        
+        <subcategory name="Lip Balm">
+           <product>
+        <id>99</id>
+        <name>Sugar Lip Treatment</name>
+        <brand>Fresh</brand>
+        <description>A hydrating lip balm with SPF 15.</description>
+        <price>14.46</price>
+        <rating>10</rating>
+        <image>https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dw85a3c015/products/FRESH/UK200035203_FRESH.jpg?sw=582-sh=582</image>
+    </product>
+    <product>
+        <id>100</id>
+        <name>Beeswax Lip Balm</name>
+        <brand>Burt's Bees</brand>
+        <description>A natural lip balm that nourishes and protects lips.</description>
+        <price>4.82</price>
+        <rating>10</rating>
+        <image>https://mcprod.ecom.clxdtc.com/media/catalog/product/n/i/ni-46123_bbd_lip_lbl_balm_beeswax_1.jpg?width=828-auto=webp</image>
+    </product>
+    <product>
+        <id>101</id>
+        <name>Lip Sleeping Mask</name>
+        <brand>Laneige</brand>
+        <description>A nourishing overnight lip mask.</description>
+        <price>16.27</price>
+        <rating>10</rating>
+        <image>https://www.sephora.com/productimages/sku/s2371367-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>102</id>
+        <name>Bisou Balm</name>
+        <brand>Violette_FR</brand>
+        <description>A sheer matte lipstick-meets-hydrating balm with a flush of color and subtle blurring effect for a just-been-kissed lip look.</description>
+        <price>48.00</price>
+        <rating>10</rating>
+        <image>https://ohmycream.co.uk/cdn/shop/files/2024_07_VioletteFR_Bisou_Balm_Coquelicot_Packshot_700x.jpg?v=1721739758</image>
+    </product>
+    <product>
+        <id>103</id>
+        <name>Lip Repair Ointment</name>
+        <brand>Aquaphor</brand>
+        <description>A lip ointment that soothes and repairs lips.</description>
+        <price>7.23</price>
+        <rating>10</rating>
+        <image>https://cdn1.feelunique.com/img/products/52081/eucerin_aquaphor_soothing_skin_balm_45ml_1591000165.jpg</image>
+    </product>
+    <product>
+        <id>104</id>
+        <name>Moisturizing Cream Lip Balm</name>
+        <brand>CeraVe</brand>
+        <description>A hydrating lip balm for dry lips.</description>
+        <price>8.43</price>
+        <rating>10</rating>
+        <image>https://i5.walmartimages.com/seo/Healing-Lip-Balm-Moisturizing-Formula-with-Sunscreen-SPF-30-for-Dry-for-Chapped-Lips-15-oz_a0f9dd25-a5d1-4ac9-aea3-2ac8eeaf1976_1.8f926efe99adb3f006c287bb809529de.jpeg?odnHeight=2000-odnWidth=2000-odnBg=FFFFFF</image>
+    </product>
+    <product>
+        <id>105</id>
+        <name>Smooth Sphere Lip Balm</name>
+        <brand>EOS</brand>
+        <description>A hydrating lip balm with natural ingredients.</description>
+        <price>6.02</price>
+        <rating>10</rating>
+        <image>https://cdn11.bigcommerce.com/s-bb7f1/images/stencil/1280x1280/products/2566/4793/eos-sphere-lip-balm_lemon_twist_7g_the_glamour_shop__61348.1518555326.jpg?c=2</image>
+    </product>
+    <product>
+        <id>106</id>
+        <name>Balmy Tint Hydrating Lip Balm</name>
+        <brand>ILIA</brand>
+        <description>A clean tinted lip balm with active levels of moisture-boosting ingredients and sheer color that builds with each swipe.</description>
+        <price>28.00</price>
+        <rating>10</rating>
+        <image>https://www.sephora.com/productimages/sku/s2446144-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>107</id>
+        <name>The Kissu Lip Mask</name>
+        <brand>Tatcha</brand>
+        <description>A hydrating lip mask for soft, supple lips.</description>
+        <price>24.10</price>
+        <rating>10</rating>
+        <image>https://www.sephora.com/productimages/sku/s2315315-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>108</id>
+        <name>Lippe Balm</name>
+        <brand>Drunk Elephant</brand>
+        <description>A nourishing balm that hydrates and smooths lips.</description>
+        <price>14.46</price>
+        <rating>10</rating>
+        <image>https://www.sephora.com/productimages/sku/s1766930-main-zoom.jpg?imwidth=465</image>
+    </product>
+        </subcategory>
+       <subcategory name="Lip Liner">
+       <product>
+        <id>109</id>
+        <name>24/7 Glide-On Lip Pencil</name>
+        <brand>Urban Decay</brand>
+        <description>A waterproof lip pencil that glides on smoothly.</description>
+        <price>14.46</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2790459-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>110</id>
+        <name>Lip Cheat Lip Liner</name>
+        <brand>Charlotte Tilbury</brand>
+        <description>A long-lasting lip liner that prevents feathering.</description>
+        <price>16.27</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2736155-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>111</id>
+        <name>Velvet Matte Lip Pencil</name>
+        <brand>NARS</brand>
+        <description>A lip pencil with a creamy texture and matte finish.</description>
+        <price>21.69</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.om/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwf871f308/images/hi-res/SKU/SKU_3479/124592_swatch.jpg</image>
+    </product>
+    <product>
+        <id>112</id>
+        <name>Aqua Lip Waterproof Lip Pencil</name>
+        <brand>Make Up For Ever</brand>
+        <description>A waterproof lip pencil that stays put.</description>
+        <price>19.28</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s1054543-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>113</id>
+        <name>Perfect Lips Lip Liner</name>
+        <brand>Too Faced</brand>
+        <description>A lip liner that glides on easily for precise application.</description>
+        <price>16.27</price>
+        <rating>0.0</rating>
+        <image>https://static.thcdn.com/images/large/webp/productimg/0/960/960/32/10626632-1346230590-61630.jpg</image>
+    </product>
+    <product>
+        <id>114</id>
+        <name>Color Statement Lipliner</name>
+        <brand>Milani</brand>
+        <description>A creamy lip liner that provides long-lasting wear.</description>
+        <price>7.23</price>
+        <rating>0.0</rating>
+        <image>https://www.milanicosmetics.com/cdn/shop/files/1_ColorStatement_Lipliner_12_PDP_PoductWithSwatch.png?v=1721416102</image>
+    </product>
+    <product>
+        <id>115</id>
+        <name>Kind Words Lip Liner</name>
+        <brand>Rare Beauty by Selena Gomez</brand>
+        <description>A super creamy, waterproof lip liner that glides on like a balm to define lips—in the same 10 rich, made-to-match shades as the Kind Words Matte Lipstick.</description>
+        <price>15.00</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2799385-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>116</id>
+        <name>Lip Sketch Hydrating Lipstick + Lip Liner Crayon</name>
+        <brand>ILIA</brand>
+        <description>A long-lasting lipstick and liner with a soft-matte finish that boosts hydration over time for visibly fuller, more defined lips.</description>
+        <price>26.00</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2749687-main-zoom.jpg?imwidth=612</image>
+    </product>
+       </subcategory>
+        <subcategory name="Lip Gloss">
+           <product>
+            <id>79</id>
+            <name>Gloss Bomb Universal Lip Luminizer</name>
+            <brand>Fenty Beauty</brand>
+            <description>A lip gloss that enhances all skin tones.</description>
+            <price>12.05</price>
+           <rating>0.0</rating>
+           <image>https://www.sephora.com/productimages/sku/s1925965-main-zoom.jpg?imwidth=612</image>
+          </product>
+
+        <product>
+          <id>80</id>
+          <name>Full-On Plumping Lip Cream</name>
+          <brand>Buxom</brand>
+          <description>A lip cream that gives a fuller appearance.</description>
+          <price>14.46</price>
+          <rating>0.0</rating>
+          <image>https://media.ulta.com/i/ulta/2299249?w=1080-h=1080-fmt=auto</image>
+       </product>
+
+        <product>
+          <id>81</id>
+          <name>Lip Injection Extreme Lip Plumper</name>
+          <brand>Too Faced</brand>
+          <description>A lip plumper that provides immediate results.</description>
+          <price>19.28</price>
+          <rating>0.0</rating>
+          <image>https://www.sephora.com/productimages/sku/s1494004-main-zoom.jpg?imwidth=612</image>
+       </product>
+
+         <product>
+           <id>82</id>
+           <name>Lip Gloss</name>
+           <brand>Anastasia Beverly Hills</brand>
+           <description>A high-shine lip gloss with a non-sticky formula.</description>
+           <price>16.27</price>
+           <rating>0.0</rating>
+          <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/12716239-1755140327084686.jpg</image>
+        </product>
+
+        <product>
+           <id>83</id>
+           <name>Enamored Hi-Shine Lip Lacquer</name>
+           <brand>Marc Jacobs</brand>
+            <description>A high-shine lip lacquer for a wet look.</description>
+          <price>25.30</price>
+          <rating>0.0</rating>
+         <image>https://dy6g3i6a1660s.cloudfront.net/sKR3ttTX65g14WWXE3oViQfQB9A/p_550x550-9d/marc-jacobs-beauty-enamored-hi-shine-lip-lacquer-302-allow-me.jpg</image>
+        </product>
+
+        <product>
+          <id>84</id>
+          <name>Lip Gloss</name>
+          <brand>NARS</brand>
+          <description>A high-shine gloss that hydrates lips.</description>
+          <price>19.28</price>
+          <rating>0.0</rating>
+          <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw0a2fc873/2021/December/Spring_Edit/Lip_Shine/194251077161_1.jpg?sw=856sh=750sm=fit</image>
+        </product>
+
+         <product>
+           <id>85</id>
+           <name>Gen Nude Buttercream Lip Gloss</name>
+           <brand>BareMinerals</brand>
+           <description>A creamy lip gloss that nourishes lips.</description>
+           <price>16.27</price>
+           <rating>0.0</rating>
+           <image>https://minmaxdeals.com/wp-content/uploads/2023/10/80839.jpg</image>
+        </product>
+
+         <product>
+           <id>86</id>
+           <name>Infallible 8HR Pro Gloss</name>
+           <brand>L’Oréal</brand>
+           <description>A long-lasting gloss that shines for hours.</description>
+           <price>10.24</price>
+           <rating>0.0</rating>
+           <image>https://target.scene7.com/is/image/Target/GUEST_efd80580-691d-4bf5-b8c9-468628deda74?wid=1200hei=1200qlt=88fmt=webp</image>
+        </product>
+
+<product>
+    <id>87</id>
+    <name>Ultra Glossy Lip</name>
+    <brand>ColourPop</brand>
+    <description>A moisturizing lip gloss that provides shine.</description>
+    <price>7.23</price>
+    <rating>0.0</rating>
+    <image>https://media.ulta.com/i/ulta/2612980?w=1080h=1080fmt=auto</image>
+</product>
+
+<product>
+    <id>88</id>
+    <name>H20 Gloss</name>
+    <brand>Tarte</brand>
+    <description>A hydrating gloss that adds shine and moisture.</description>
+    <price>14.46</price>
+    <rating>0.0</rating>
+    <image>https://www.sephora.fr/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw9f0fff65/images/hi-res/SKU/SKU_2360/551071_swatch.jpg</image>
+</product>
+
+        </subcategory>
+    </category>
+
+    <category name="Cheeks">
+        <subcategory name="Blush">
+             <product>
+        <id>117</id>
+        <name>Bisou Blush</name>
+        <brand>Violette_FR</brand>
+        <description>A kiss of couleur for cheeks – this marbled cream blush and attached blending brush create a natural, multidimensional wash of color with a skin-like finish.</description>
+        <price>36.00</price>
+        <rating>0.0</rating>
+        <image>pics\\bb1.webp</image>
+    </product>
+    <product>
+        <id>118</id>
+        <name>Amazonian Clay 12-Hour Blush</name>
+        <brand>Tarte</brand>
+        <description>A long-lasting blush with a silky finish.</description>
+        <price>21.69</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2741387-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>119</id>
+        <name>Soft Pinch Liquid Blush</name>
+        <brand>Rare Beauty by Selena Gomez</brand>
+        <description>Weightless, long-lasting liquid blush with up to 12-hour wear. Blends and builds beautifully for a soft, healthy flush in matte or dewy finishes.</description>
+        <price>23.00</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2362085-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>120</id>
+        <name>Benetint Cheek - Lip Stain</name>
+        <brand>Benefit Cosmetics</brand>
+        <description>A lightweight gel that adds a natural flush.</description>
+        <price>19.28</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2264638-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>121</id>
+        <name>Cheek Pop Blush</name>
+        <brand>Clinique</brand>
+        <description>A blush that provides a natural flush of color.</description>
+        <price>18.07</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s1674910-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>122</id>
+        <name>L.A. Lights Blendable Lip-Cheek Color</name>
+        <brand>Smashbox</brand>
+        <description>A versatile cream blush for cheeks and lips.</description>
+        <price>14.46</price>
+        <rating>0.0</rating>
+        <image>https://beautyloops.com/cdn/shop/products/3_238d5ee3-bb46-4326-ab72-021cbe61f2e1_540x.png?v=1623066827</image>
+    </product>
+    <product>
+        <id>123</id>
+        <name>Ambient Lighting Blush</name>
+        <brand>Hourglass</brand>
+        <description>A blush that adds dimension to the cheeks.</description>
+        <price>26.51</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2378586-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>124</id>
+        <name>Cheek to Chic Blush</name>
+        <brand>Charlotte Tilbury</brand>
+        <description>A two-tone blush for a soft, natural look.</description>
+        <price>23.49</price>
+        <rating>0.0</rating>
+        <image>https://www.sephora.com/productimages/sku/s2115905-main-zoom.jpg?imwidth=612</image>
+    </product>
+    <product>
+        <id>125</id>
+        <name>Putty Blush</name>
+        <brand>e.l.f. Cosmetics</brand>
+        <description>A creamy blush that blends effortlessly.</description>
+        <price>6.02</price>
+        <rating>0.0</rating>
+        <image>https://media.ulta.com/i/ulta/2574635?w=1080-h=1080-fmt=auto</image>
+    </product>
+    <product>
+        <id>126</id>
+        <name>Cream Blush</name>
+        <brand>Fenty Beauty</brand>
+        <description>A creamy blush that adds a natural flush of color.</description>
+        <price>20.48</price>
+        <rating>0.0</rating>
+        <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/zoom_1_Product_840026670777-Fenty-Beauty-Cheeks-Out-Freestyle-Cream-Blush-Bigmelons-fc4f49_ca58206b19ff6a869a3abb54abcc18d07e575d0b_1690549644.png</image>
+    </product>
+        </subcategory>
+        <subcategory name="Bronzer">
+            <product>
+        <id>127</id>
+        <name>Hoola Matte Bronzer</name>
+        <brand>Benefit Cosmetics</brand>
+        <description>A matte bronzer for a sun-kissed glow.</description>
+        <price>18.07</price>
+        <rating>0.0</rating>
+        <image>https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dw29b5adbc/product_images/HOOLAIB74/Main_d09466_full_hoola_shadeoriginal.jpg?sw=624-sh=624-q=85</image>
+    </product>
+    <product>
+        <id>128</id>
+        <name>Chocolate Soleil Matte Bronzer</name>
+        <brand>Too Faced</brand>
+        <description>A bronzer that provides a natural tan.</description>
+        <price>24.10</price>
+        <rating>0.0</rating>
+        <image>https://contenthub-delivery.mecca.com/api/public/content/I-031922-I-031922-M1-TooFaced-ChocolateSoleilMatteBronzer.webp?t=w480</image>
+    </product>
+    <product>
+        <id>129</id>
+        <name>Laguna Bronzer</name>
+        <brand>NARS</brand>
+        <description>A bronzer that gives a radiant finish.</description>
+        <price>21.69</price>
+        <rating>0.0</rating>
+        <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw299f43fd/2023/March/Makeup/LagunaBronzer/Swatches/999NAC0000155_BronzingPowder_Laguna02_1.jpg?sw=856-sh=750-sm=fit</image>
+    </product>
+    <product>
+        <id>130</id>
+        <name>Park Avenue Princess Amazonian Clay Bronzer</name>
+        <brand>Tarte</brand>
+        <description>A bronzer that enhances your skin tone.</description>
+        <price>19.28</price>
+        <rating>0.0</rating>
+        <image>https://media.ulta.com/i/ulta/2220039?w=1080-h=1080-fmt=auto</image>
+    </product>
+    <product>
+        <id>131</id>
+        <name>Butter Bronzer</name>
+        <brand>Physicians Formula</brand>
+        <description>A bronzer that adds a healthy glow.</description>
+        <price>9.64</price>
+        <rating>0.0</rating>
+        <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw299f43fd/2023/March/Makeup/LagunaBronzer/Swatches/999NAC0000155_BronzingPowder_Laguna02_1.jpg?sw=856-sh=750-sm=fit</image>
+    </product>
+    <product>
+        <id>132</id>
+        <name>Bronze Lights</name>
+        <brand>Smashbox</brand>
+        <description>A bronzer that warms up your complexion.</description>
+        <price>14.46</price>
+        <rating>0.0</rating>
+        <image>https://alsayyedcosmetics.com/web/image/product.product/15089/image_1024/Smashbox%20Bronze%20Lights%20Poudere%20Bronzante%20%28deep%20mate%29?unique=1a83ca2</image>
+    </product>
+    <product>
+        <id>133</id>
+        <name>Sun Stalk’r Instant Warmth Bronzer</name>
+        <brand>Fenty Beauty</brand>
+        <description>A bronzer that is easy to blend and build.</description>
+        <price>21.69</price>
+        <rating>0.0</rating>
+        <image>https://www.arcstore.co.za/Admin/Public/GetImage.ashx?Width=800-Height=800-Crop=5-DoNotUpscale=True-FillCanvas=True-Image=/Files/Images/Ecom/Brands/DEF/FENTY/113624_BAJANGYAL_A.jpg-AlternativeImage=/Images/missing_image.jpg</image>
+    </product>
+    <product>
+        <id>134</id>
+        <name>Ambient Lighting Bronzer</name>
+        <brand>Hourglass</brand>
+        <description>A bronzer that adds dimension and warmth.</description>
+        <price>28.92</price>
+        <rating>0.0</rating>
+        <image>https://contenthub-delivery.mecca.com/api/public/content/I-021224-I-021224-M1-Hourglass-AmbientLightingBronzer.webp?t=w480</image>
+    </product>
+    <product>
+        <id>135</id>
+        <name>Airbrush Bronzer</name>
+        <brand>Charlotte Tilbury</brand>
+        <description>A lightweight bronzer for a natural finish.</description>
+        <price>25.30</price>
+        <rating>0.0</rating>
+        <image>https://images.ctfassets.net/wlke2cbybljx/7crejNRIp47YTMhbowecZd/e0b4769ad90e8bbff576477552d05973/Airbrush_Bronzer_Closed_Packshot.png?w=660-h=660-fit=fill-fm=jpg-bg=</image>
+    </product>
+    <product>
+        <id>136</id>
+        <name>Silk Matte Bronzer</name>
+        <brand>Milani</brand>
+        <description>A bronzer that delivers a natural glow.</description>
+        <price>10.84</price>
+        <rating>0.0</rating>
+        <image>https://www.milani.fr/1363-large_default/silky-matte-bronzing-powder.jpg</image>
+    </product>
+        </subcategory>
+        <subcategory name="Contour">
+           <product>
+    <id>137</id>
+    <name>Contour Kit</name>
+    <brand>Anastasia Beverly Hills</brand>
+    <description>A customizable kit for contouring and highlighting.</description>
+    <price>30.12</price>
+    <rating>15</rating>
+    <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/11347849-9245140540423737.jpg</image>
+</product>
+<product>
+    <id>138</id>
+    <name>Match Stix Matte Skinstick</name>
+    <brand>Fenty Beauty</brand>
+    <description>A cream stick for easy contouring.</description>
+    <price>21.69</price>
+    <rating>15</rating>
+    <image>https://media.ulta.com/i/ulta/2592591?w=1080-h=1080-fmt=auto</image>
+</product>
+<product>
+    <id>139</id>
+    <name>Shape Tape Contour Concealer</name>
+    <brand>Tarte</brand>
+    <description>A concealer that doubles as a contour product.</description>
+    <price>18.67</price>
+    <rating>15</rating>
+    <image>https://media.ulta.com/i/ulta/2501208?w=1080-h=1080-fmt=auto</image>
+</product>
+<product>
+    <id>140</id>
+    <name>Easy Bake Loose Baking - Setting Powder</name>
+    <brand>Huda Beauty</brand>
+    <description>A lightweight powder that sets makeup.</description>
+    <price>26.51</price>
+    <rating>15</rating>
+    <image>https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dw942b45f2/images/Easy_Bake_2023_Update/EB-LOOSE-PACKSHOTS_BANANA-BREAD.jpg?sw=1024-sh=1024</image>
+</product>
+<product>
+    <id>141</id>
+    <name>Filmstar Bronze - Glow</name>
+    <brand>Charlotte Tilbury</brand>
+    <description>A duo that sculpts and highlights the face.</description>
+    <price>36.14</price>
+    <rating>15</rating>
+    <image>https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dwf17de5e4/products/CHARLOTTE/UK200024585_CHARLOTTE.jpg?sw=582-sh=582</image>
+</product>
+<product>
+    <id>142</id>
+    <name>Veil Translucent Setting Powder</name>
+    <brand>Hourglass</brand>
+    <description>A setting powder that blurs imperfections.</description>
+    <price>30.12</price>
+    <rating>15</rating>
+    <image>https://www.hourglasscosmetics.com/cdn/shop/files/2000x2000-72dpi_0001_VeilSettingPowder_Open_49829fba-c668-45d9-abbe-ddf2b61c1cfc.png?v=1723659984-width=800</image>
+</product>
+<product>
+    <id>143</id>
+    <name>NARS Contour Blush</name>
+    <brand>NARS</brand>
+    <description>A blush that also works as a contour shade.</description>
+    <price>19.28</price>
+    <rating>15</rating>
+    <image>https://m.media-amazon.com/images/I/61EMBMGPULL._SL1000_.jpg</image>
+</product>
+<product>
+    <id>144</id>
+    <name>Hoola Lite Matte Bronzer</name>
+    <brand>Benefit Cosmetics</brand>
+    <description>A lighter version of the original Hoola bronzer.</description>
+    <price>18.07</price>
+    <rating>15</rating>
+    <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/13713983-1245156351859072.jpg</image>
+</product>
+<product>
+    <id>145</id>
+    <name>Ultra HD Foundation Stick</name>
+    <brand>Make Up For Ever</brand>
+    <description>A foundation stick that can be used for contouring.</description>
+    <price>30.12</price>
+    <rating>15</rating>
+    <image>https://themakeuppro.co.uk/cdn/shop/products/3548752105989_i000042540_uhd_stick_r540_face_0.png?v=1614859066-width=720</image>
+</product>
+<product>
+    <id>146</id>
+    <name>Wonder Stick</name>
+    <brand>NYX</brand>
+    <description>A dual-ended cream stick for highlighting and contouring.</description>
+    <price>9.64</price>
+    <rating>15</rating>
+    <image>https://media.ulta.com/i/ulta/2595218?w=1080-h=1080-fmt=auto</image>
+</product>
+        </subcategory>
+    </category>
+</categories>
