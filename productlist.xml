@@ -10,7 +10,7 @@
                 <description>A soft matte foundation with buildable coverage.</description>
                 <price>20.24</price>
                 <rating>4.5</rating>
-                <image>pics/f1.jpg</image>
+               <image>https://www.sephora.com/productimages/sku/s1925478-main-zoom.jpg?imwidth=930</image>
                 <qty_in_stock>200</qty_in_stock>
             </product>
             <product>
@@ -20,7 +20,7 @@
                 <description>A 24-hour wear foundation that looks flawless.</description>
                 <price>23.86</price>
                 <rating>4.7</rating>
-                <image>pics/f2.jpg</image>
+                <image>https://www.sephora.com/productimages/sku/s2112183-main-zoom.jpg?imwidth=1224</image>
                 <qty_in_stock>70</qty_in_stock>
             </product>
             <product>
@@ -30,7 +30,8 @@
                 <description>A lightweight foundation that delivers a natural finish.</description>
                 <price>22.89</price>
                 <rating>4.6</rating>
-                <image>pics/f3.webp</image>
+                <image><image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw8dd601b2/hi-res/0607845065999.jpg?sw=856&amp;sh=750&amp;sm=fit</image>
+</image>
                   <qty_in_stock>75</qty_in_stock>
             </product>
             <product>
@@ -40,7 +41,7 @@
                 <description>A lightweight foundation with a matte finish.</description>
                 <price>14.46</price>
                 <rating>4.3</rating>
-                <image>pics/f4.jpg</image>
+                <image>https://media.ulta.com/i/ulta/2283483?w=1080&amp;h=1080&amp;fmt=auto</image>
                   <qty_in_stock>75</qty_in_stock>
             </product>
         </subcategory>
