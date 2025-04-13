@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
 <categories>
     <category name="Face">
         <subcategory name="Foundation">
@@ -10,6 +11,7 @@
                 <price>20.24</price>
                 <rating>4.5</rating>
                 <image>pics/f1.jpg</image>
+                <qty_in_stock>200</qty_in_stock>
             </product>
             <product>
                 <id>2</id>
@@ -19,6 +21,7 @@
                 <price>23.86</price>
                 <rating>4.7</rating>
                 <image>pics/f2.jpg</image>
+                <qty_in_stock>70</qty_in_stock>
             </product>
             <product>
                 <id>3</id>
@@ -28,6 +31,7 @@
                 <price>22.89</price>
                 <rating>4.6</rating>
                 <image>pics/f3.webp</image>
+                  <qty_in_stock>75</qty_in_stock>
             </product>
             <product>
                 <id>4</id> 
@@ -37,6 +41,7 @@
                 <price>14.46</price>
                 <rating>4.3</rating>
                 <image>pics/f4.jpg</image>
+                  <qty_in_stock>75</qty_in_stock>
             </product>
         </subcategory>
 
@@ -49,6 +54,7 @@
                 <price>18.67</price>
                 <rating>4.8</rating>
                 <image>conceal1.jpeg</image>
+                  <qty_in_stock>50</qty_in_stock>
             </product>
             <product>
                 <id>12</id>
@@ -58,27 +64,30 @@
                 <price>22.89</price>
                 <rating>4.7</rating>
                 <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/10785711-1215150958134010.jpg</image>
+                  <qty_in_stock>65</qty_in_stock>
             </product>
         </subcategory>
 
         <subcategory name="Primer">
             <product>
                 <id>21</id>
-                <brand>Fenty Beauty</brand>
                 <name>Pro Filt'r Instant Retouch Primer</name>
+                <brand>Fenty Beauty</brand>
                 <description>A pore-diffusing primer that smooths and refines skin texture.</description>
                 <price>20.24</price>
-                <image>https://www.sephora.qa/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwa17f07af/images/hi-res/SKU/SKU_5/398368_swatch.jpg</image>
                 <rating>4.0</rating>
+                <image>https://www.sephora.qa/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwa17f07af/images/hi-res/SKU/SKU_5/398368_swatch.jpg</image>
+                <qty_in_stock>65</qty_in_stock>
             </product>
             <product>
                 <id>22</id>
-                <brand>Benefit Cosmetics</brand>
                 <name>The POREfessional Face Primer</name>
+                <brand>Benefit Cosmetics</brand>
                 <description>A mattifying primer that minimizes the appearance of pores.</description>
                 <price>16.45</price>
-                <image>https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwce91c0ab/product_images/THEPOIB184/Main_full_porefessional.jpg</image>
                 <rating>3.0</rating>
+                <image>https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwce91c0ab/product_images/THEPOIB184/Main_full_porefessional.jpg</image>
+                  <qty_in_stock>80</qty_in_stock>
             </product>
         </subcategory>
 
@@ -91,6 +100,7 @@
                 <price>22.29</price>
                 <rating>4.5</rating>
                 <image>https://www.sephora.com/productimages/sku/s2504389-main-zoom.jpg?imwidth=612</image>
+                  <qty_in_stock>90</qty_in_stock>
             </product>
             <product>
                 <id>32</id>
@@ -100,6 +110,7 @@
                 <price>19.28</price>
                 <rating>3.8</rating>
                 <image>https://www.sephora.com/productimages/sku/s1925916-main-zoom.jpg?imwidth=612</image>
+                  <qty_in_stock>80</qty_in_stock>
             </product>
             <product>
                 <id>33</id>
@@ -109,6 +120,7 @@
                 <price>25.30</price>
                 <rating>4.6</rating>
                 <image>https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13309213-1525169372489063.jpg-format=webp-auto=avif-width=985-height=985-fit=cover</image>
+                  <qty_in_stock>100</qty_in_stock>
             </product>
         </subcategory>
     </category>
@@ -123,6 +135,7 @@
          <price>28.92</price>
          <rating>0.0</rating>
          <image>https://www.sephora.com/productimages/sku/s1820406-main-zoom.jpg?imwidth=612</image>
+         <qty_in_stock>80</qty_in_stock>
       </product>
 
     <product>
@@ -133,6 +146,7 @@
         <price>33.73</price>
         <rating>0.0</rating>
         <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_202146_20Huda_20Beauty_20Nude_20Eyeshadow_20Palette_cc6abca4a954771037c2281e8199afbc0cc9563f_1540974277.png</image>
+    <qty_in_stock>60</qty_in_stock>
    </product>
 
     <product>
@@ -143,6 +157,7 @@
        <price>27.71</price>
        <rating>0.0</rating>
        <image>https://www.sephora.com/productimages/sku/s2600856-main-zoom.jpg?imwidth=612</image>
+         <qty_in_stock>70</qty_in_stock>
     </product>
 
    <product>
@@ -153,6 +168,7 @@
        <price>36.14</price>
        <rating>0.0</rating>
        <image>https://m.media-amazon.com/images/I/618yMJotmdL._AC_SL1355_.jpg</image>
+         <qty_in_stock>80</qty_in_stock>
    </product>
 
 <product>
@@ -163,7 +179,8 @@
     <price>48.19</price>
     <rating>0.0</rating>
     <image>https://www.sephora.co.uk/img/products/101391/alternative/Natasha_Denona_Biba_Blush__amp__Highlight_Palette_37_5g_0_1547463786.jpg</image>
-</product>
+  <qty_in_stock>60</qty_in_stock>
+  </product>
 
 <product>
     <id>74</id>
@@ -173,6 +190,7 @@
     <price>27.67</price>
     <rating>0.0</rating>
     <image>https://www.ohmycream.com/cdn/shop/files/Ombre-a-paupieres-OMCS-_1_700x.jpg?v=1699527595</image>
+      <qty_in_stock>50</qty_in_stock>
 </product>
 
 <product>
@@ -183,6 +201,7 @@
     <price>14.46</price>
     <rating>0.0</rating>
     <image>https://storage.beautyfulls.com/uploads-1/sg-press/600x/phan-mat-colourpop-sweet-talk-107634.webp</image>
+      <qty_in_stock>70</qty_in_stock>
 </product>
 
 <product>
@@ -193,6 +212,7 @@
     <price>18.07</price>
     <rating>0.0</rating>
     <image>https://target.scene7.com/is/image/Target/GUEST_391e4c8c-fa7f-4b0e-af8d-888bb59acca0?wid=1200-hei=1200-qlt=80-fmt=webp</image>
+      <qty_in_stock>75</qty_in_stock>
 </product>
 
 <product>
@@ -203,6 +223,7 @@
     <price>27.71</price>
     <rating>0.0</rating>
     <image>https://www.temptalia.com/wp-content/uploads/2017/02/nars_loaded_001_palette.jpg</image>
+      <qty_in_stock>65</qty_in_stock>
 </product>
 
 <product>
@@ -213,6 +234,7 @@
     <price>11.45</price>
     <rating>0.0</rating>
     <image>https://of.nice-cdn.com/upload/image/product/large/default/3967_5ca0315e.768x768.jpg</image>
+      <qty_in_stock>45</qty_in_stock>
 </product>
 
  </subcategory>
@@ -225,6 +247,7 @@
             <price>15.66</price>
             <rating>3.7</rating>
             <image>https://www.toofaced.co.uk/media/export/cms/products/1000x1000/2f_sku_94240_1000x1000_0.jpg</image>
+              <qty_in_stock>80</qty_in_stock>
        </product>
             <product>
                 <id>40</id>
@@ -234,6 +257,7 @@
                 <price>9.64</price>
                 <rating>4.9</rating>
                 <image>pics\lashMascara.webp</image>
+                  <qty_in_stock>85</qty_in_stock>
             </product>
             <product>
                 <id>41</id>
@@ -243,6 +267,7 @@
                 <price>18.67</price>
                 <rating>4.4</rating>
                 <image>https://www.sephora.com/productimages/sku/s1343938-main-zoom.jpg?imwidth=612</image>
+                  <qty_in_stock>80</qty_in_stock>
             </product>
             <product>
                 <id>42</id>
@@ -252,6 +277,7 @@
                 <price>27.67</price>
                 <rating>4.1</rating>
                 <image>https://www.ohmycream.com/cdn/shop/products/3664529000711_Packshot_Mascara_OMCS_700x.jpg?v=1654633862</image>
+                  <qty_in_stock>90</qty_in_stock>
             </product>
             <product>
                 <id>43</id>
@@ -261,6 +287,7 @@
                 <price>22.29</price>
                 <rating>4.5</rating>
                 <image>https://www.sephora.com/productimages/sku/s2090090-main-zoom.jpg?imwidth=612</image>
+                  <qty_in_stock>125</qty_in_stock>
             </product>
             <product>
                 <id>44</id>
@@ -270,6 +297,7 @@
                 <price>15.66</price>
                 <rating>4.3</rating>
                 <image>https://www.sephora.com/productimages/sku/s862417-main-zoom.jpg?imwidth=612</image>
+                  <qty_in_stock>75</qty_in_stock>
             </product>
             <product>
                 <id>45</id>
@@ -279,6 +307,7 @@
                 <price>21.08</price>
                 <rating>4.8</rating>
                 <image>https://www.sephora.ae/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw5a9a2541/images/hi-res/SKU/SKU_3/306585_swatch.jpg</image>
+             <qty_in_stock>70</qty_in_stock>
             </product>
             <product>
                 <id>46</id>
@@ -288,6 +317,7 @@
                 <price>19.88</price>
                 <rating>3.9</rating>
                 <image>https://www.sephora.com/productimages/sku/s2294312-main-zoom.jpg?imwidth=612</image>
+                  <qty_in_stock>65</qty_in_stock>
             </product>
             <product>
                 <id>47</id>
@@ -297,6 +327,7 @@
                 <price>22.29</price>
                 <rating>4.7</rating>
                 <image>https://media.ulta.com/i/ulta/2526286?w=1080h=1080fmt=auto</image>
+                  <qty_in_stock>55</qty_in_stock>
             </product>
             <product>
                 <id>48</id>
@@ -306,6 +337,7 @@
                 <price>25.30</price>
                 <rating>3.6</rating>
                 <image>https://www.sephora.fr/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwe6f7f35a/images/hi-res/SKU/SKU_890/442082_swatch.jpg?sw=585-sh=585sm=fit</image>
+             <qty_in_stock>50</qty_in_stock>
             </product>
         </subcategory>
 
@@ -318,6 +350,7 @@
         <price>14.46</price>
         <rating>8</rating>
         <image>https://www.sephora.com/productimages/sku/s1221084-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>50</id>
@@ -327,6 +360,7 @@
         <price>20.48</price>
         <rating>8</rating>
         <image>https://www.sephora.com/productimages/sku/s2781599-main-zoom.jpg?imwidth=465</image>
+          <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>51</id>
@@ -336,6 +370,7 @@
         <price>19.28</price>
         <rating>8</rating>
         <image>https://www.sephora.sa/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwe7704f12/images/hi-res/SKU/SKU_2/242570_swatch.jpg?sw=585-sh=585-sm=fit</image>
+      <qty_in_stock>50</qty_in_stock>
     </product>
     <product>
         <id>52</id>
@@ -345,6 +380,7 @@
         <price>25.30</price>
         <rating>8</rating>
         <image>https://m.media-amazon.com/images/I/21U-ilQcMrL._QL70_FMwebp_.jpg</image>
+          <qty_in_stock>55</qty_in_stock>
     </product>
     <product>
         <id>53</id>
@@ -354,7 +390,8 @@
         <price>18.07</price>
         <rating>8</rating>
         <image>https://www.aeliadutyfree.fr/media/image/1200x/aelia-duty-free-benefit-benefit-they-re-real-push-up-liner-100340729-fr-38b9506ef751989ef15f6290e0ca53948dd684b1_100340729_1-1.jpg</image>
-    </product>
+    
+      <qty_in_stock>60</qty_in_stock></product>
     <product>
         <id>54</id>
         <name>Epic Ink Liner</name>
@@ -363,6 +400,7 @@
         <price>9.64</price>
         <rating>8</rating>
         <image>https://media.ulta.com/i/ulta/2501971?w=1080-h=1080-fmt=auto</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>55</id>
@@ -372,7 +410,8 @@
         <price>23.49</price>
         <rating>8</rating>
         <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_21977_Lancome_Web_4a633535a6b3e99d78895c5e8c09834e0dbff422_1523777685.png</image>
-    </product>
+   
+     <qty_in_stock>70</qty_in_stock></product>
     <product>
         <id>56</id>
         <name>Infallible Pro-Last Waterproof Eyeliner</name>
@@ -381,6 +420,7 @@
         <price>10.84</price>
         <rating>8</rating>
         <image>https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/loe/loe35725/v/11.jpg</image>
+          <qty_in_stock>45</qty_in_stock>
     </product>
     <product>
         <id>57</id>
@@ -390,6 +430,7 @@
         <price>18.07</price>
         <rating>8</rating>
         <image>https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_V4R301_1200x1500_0.png</image>
+          <qty_in_stock>40</qty_in_stock>
     </product>
     <product>
         <id>58</id>
@@ -399,6 +440,7 @@
         <price>28.92</price>
         <rating>8</rating>
         <image>https://www.beautybuys.com/media/catalog/product/cache/39943af0042da80245beeebb3d36feeb/h/t/httpbodyscent.iebeautybuysproductschristian-diordio140836-christian-dior-diorshow-art-pen-felt-tip-pen-black-1.1ml_1.jpg</image>
+     <qty_in_stock>80</qty_in_stock>
     </product>
         </subcategory>
         <subcategory name="Eyebrow">
@@ -410,6 +452,7 @@
         <price>16.87</price>
         <rating>6</rating>
         <image>https://www.sephora.com/productimages/sku/s2372530-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>90</qty_in_stock>
     </product>
     <product>
         <id>60</id>
@@ -419,6 +462,7 @@
         <price>18.67</price>
         <rating>6</rating>
         <image>https://www.sephora.com/productimages/sku/s2086759-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>61</id>
@@ -428,6 +472,7 @@
         <price>9.64</price>
         <rating>6</rating>
         <image>https://media.ulta.com/i/ulta/2284049?w=1080-h=1080-fmt=auto</image>
+          <qty_in_stock>105</qty_in_stock>
     </product>
     <product>
         <id>62</id>
@@ -437,6 +482,7 @@
         <price>15.66</price>
         <rating>6</rating>
         <image>https://images.chickadvisor.com/item/40424/375/i/tarte-amazonian-clay-waterproof-brow-mousse-1.jpg?ic=4</image>
+          <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>63</id>
@@ -446,6 +492,7 @@
         <price>10.24</price>
         <rating>6</rating>
         <image>https://target.scene7.com/is/image/Target/GUEST_dfee8198-375a-40d9-a80f-53a727e4dc4d?wid=1200-hei=1200-qlt=80-fmt=webp</image>
+          <qty_in_stock>25</qty_in_stock>
     </product>
     <product>
         <id>64</id>
@@ -455,6 +502,7 @@
         <price>26.51</price>
         <rating>6</rating>
         <image>https://www.sephora.com/productimages/sku/s1454271-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>66</qty_in_stock>
     </product>
     <product>
         <id>65</id>
@@ -464,6 +512,7 @@
         <price>23.86</price>
         <rating>6</rating>
         <image>https://cdn1.feelunique.com/img/products/132007/charlotte_tilbury_brow_lift_1_2g_1617015442.jpg</image>
+          <qty_in_stock>88</qty_in_stock>
     </product>
     <product>
         <id>66</id>
@@ -473,6 +522,7 @@
         <price>7.23</price>
         <rating>6</rating>
         <image>https://target.scene7.com/is/image/Target/GUEST_88cc95aa-5b81-4206-a79e-3c7e0efec35e?wid=1200-hei=1200-qlt=80-fmt=webp</image>
+          <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>67</id>
@@ -482,6 +532,7 @@
         <price>18.07</price>
         <rating>6</rating>
         <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/zoom_1_Product_602004103116-Benefit-Gimme-Brow-Brow-Volumizing-Fiber-Gel-All-Shades_caec9b6766e2b7be94ce1d04234f72c6ff7c1221_1563853570.png</image>
+      <qty_in_stock>45</qty_in_stock>
     </product>
     <product>
         <id>68</id>
@@ -491,6 +542,7 @@
         <price>22.29</price>
         <rating>6</rating>
         <image>https://www.sephora.com/productimages/sku/s2268548-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>55</qty_in_stock>
     </product>
         </subcategory>
     </category>
@@ -505,6 +557,7 @@
               <price>22.89</price>
                <rating>0.0</rating>
                <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dwb4441be2/hi-res/0607845094616.jpg?sw=856-sh=750-sm=fit</image>
+            <qty_in_stock>100</qty_in_stock>
            </product>
          <product>
             <id>90</id>
@@ -514,6 +567,7 @@
             <price>25.30</price>
             <rating>0.0</rating>
             <image>https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dwab729d4b/products/CHARLOTTE/UK200027343_CHARLOTTE.jpg?sw=582-sh=582</image>
+           <qty_in_stock>100</qty_in_stock>
          </product>
          <product>
            <id>91</id>
@@ -523,6 +577,7 @@
            <price>16.27</price>
            <rating>0.0</rating>
            <image>https://lookincredible.co.uk/cdn/shop/files/fenty-beauty-mattemoiselle-plush-matte-lipstickfenty-beautylookincredible-233147.jpg?v=1715877649-width=500</image>
+        <qty_in_stock>134</qty_in_stock>
       </product>
       <product>
            <id>92</id>
@@ -532,6 +587,8 @@
            <price>24.10</price>
            <rating>0.0</rating>
            <image>https://m.media-amazon.com/images/I/61fOxT5g75L._SL1500_.jpg</image>
+             <qty_in_stock>75</qty_in_stock>
+
      </product>
      <product>
         <id>93</id>
@@ -541,6 +598,7 @@
         <price>30.12</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2789386-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>94</id>
@@ -550,6 +608,7 @@
         <price>11.45</price>
         <rating>0.0</rating>
         <image>https://media.ulta.com/i/ulta/2510218?w=1080-h=1080-fmt=auto</image>
+          <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>95</id>
@@ -559,6 +618,7 @@
         <price>19.28</price>
         <rating>0.0</rating>
         <image>https://media.allure.com/photos/5cb774e1bff1e604dabc3f35/master/pass/bite-beauty-amuse-bouche-lipstick.jpg</image>
+          <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>96</id>
@@ -568,6 +628,7 @@
         <price>16.27</price>
         <rating>0.0</rating>
         <image>https://dy6g3i6a1660s.cloudfront.net/fMY3u-w85AuddZteZtmsTgHCAcI/p_550x550-ce/tarte-amazonian-butter-lipstick-coral-blossom.jpg</image>
+      <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>97</id>
@@ -577,6 +638,7 @@
         <price>22.29</price>
         <rating>0.0</rating>
         <image>https://www.makeupgallery.pk/cdn/shop/files/0o9i_6d51399d-ca87-44ba-8dd2-aadd6e1feaeb.gif?v=1709826203-width=800</image>
+  <qty_in_stock>60</qty_in_stock>
     </product>
     <product>
         <id>98</id>
@@ -586,6 +648,7 @@
         <price>18.67</price>
         <rating>0.0</rating>
         <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_6750_Clinique_WEB_31f9897509a901b89edc405eb1de16d12faf2a8a_1523776805.png</image>
+     <qty_in_stock>75</qty_in_stock>
     </product>
         </subcategory>
         
@@ -598,7 +661,9 @@
         <price>14.46</price>
         <rating>10</rating>
         <image>https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dw85a3c015/products/FRESH/UK200035203_FRESH.jpg?sw=582-sh=582</image>
-    </product>
+    
+      <qty_in_stock>70</qty_in_stock>
+      </product>
     <product>
         <id>100</id>
         <name>Beeswax Lip Balm</name>
@@ -607,6 +672,7 @@
         <price>4.82</price>
         <rating>10</rating>
         <image>https://mcprod.ecom.clxdtc.com/media/catalog/product/n/i/ni-46123_bbd_lip_lbl_balm_beeswax_1.jpg?width=828-auto=webp</image>
+          <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>101</id>
@@ -616,6 +682,7 @@
         <price>16.27</price>
         <rating>10</rating>
         <image>https://www.sephora.com/productimages/sku/s2371367-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>75</qty_in_stock>
     </product>
     <product>
         <id>102</id>
@@ -625,6 +692,7 @@
         <price>48.00</price>
         <rating>10</rating>
         <image>https://ohmycream.co.uk/cdn/shop/files/2024_07_VioletteFR_Bisou_Balm_Coquelicot_Packshot_700x.jpg?v=1721739758</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>103</id>
@@ -634,6 +702,7 @@
         <price>7.23</price>
         <rating>10</rating>
         <image>https://cdn1.feelunique.com/img/products/52081/eucerin_aquaphor_soothing_skin_balm_45ml_1591000165.jpg</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>104</id>
@@ -643,6 +712,7 @@
         <price>8.43</price>
         <rating>10</rating>
         <image>https://i5.walmartimages.com/seo/Healing-Lip-Balm-Moisturizing-Formula-with-Sunscreen-SPF-30-for-Dry-for-Chapped-Lips-15-oz_a0f9dd25-a5d1-4ac9-aea3-2ac8eeaf1976_1.8f926efe99adb3f006c287bb809529de.jpeg?odnHeight=2000-odnWidth=2000-odnBg=FFFFFF</image>
+     <qty_in_stock>45</qty_in_stock>
     </product>
     <product>
         <id>105</id>
@@ -652,6 +722,7 @@
         <price>6.02</price>
         <rating>10</rating>
         <image>https://cdn11.bigcommerce.com/s-bb7f1/images/stencil/1280x1280/products/2566/4793/eos-sphere-lip-balm_lemon_twist_7g_the_glamour_shop__61348.1518555326.jpg?c=2</image>
+      <qty_in_stock>59</qty_in_stock>
     </product>
     <product>
         <id>106</id>
@@ -661,6 +732,7 @@
         <price>28.00</price>
         <rating>10</rating>
         <image>https://www.sephora.com/productimages/sku/s2446144-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>66</qty_in_stock>
     </product>
     <product>
         <id>107</id>
@@ -670,6 +742,7 @@
         <price>24.10</price>
         <rating>10</rating>
         <image>https://www.sephora.com/productimages/sku/s2315315-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>89</qty_in_stock>
     </product>
     <product>
         <id>108</id>
@@ -679,6 +752,7 @@
         <price>14.46</price>
         <rating>10</rating>
         <image>https://www.sephora.com/productimages/sku/s1766930-main-zoom.jpg?imwidth=465</image>
+          <qty_in_stock>56</qty_in_stock>
     </product>
         </subcategory>
        <subcategory name="Lip Liner">
@@ -690,6 +764,7 @@
         <price>14.46</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2790459-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>67</qty_in_stock>
     </product>
     <product>
         <id>110</id>
@@ -699,6 +774,7 @@
         <price>16.27</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2736155-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>75</qty_in_stock>
     </product>
     <product>
         <id>111</id>
@@ -708,6 +784,7 @@
         <price>21.69</price>
         <rating>0.0</rating>
         <image>https://www.sephora.om/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwf871f308/images/hi-res/SKU/SKU_3479/124592_swatch.jpg</image>
+      <qty_in_stock>76</qty_in_stock>
     </product>
     <product>
         <id>112</id>
@@ -717,6 +794,7 @@
         <price>19.28</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s1054543-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>56</qty_in_stock>
     </product>
     <product>
         <id>113</id>
@@ -726,6 +804,7 @@
         <price>16.27</price>
         <rating>0.0</rating>
         <image>https://static.thcdn.com/images/large/webp/productimg/0/960/960/32/10626632-1346230590-61630.jpg</image>
+          <qty_in_stock>45</qty_in_stock>
     </product>
     <product>
         <id>114</id>
@@ -735,6 +814,7 @@
         <price>7.23</price>
         <rating>0.0</rating>
         <image>https://www.milanicosmetics.com/cdn/shop/files/1_ColorStatement_Lipliner_12_PDP_PoductWithSwatch.png?v=1721416102</image>
+          <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>115</id>
@@ -744,6 +824,7 @@
         <price>15.00</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2799385-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>150</qty_in_stock>
     </product>
     <product>
         <id>116</id>
@@ -753,6 +834,7 @@
         <price>26.00</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2749687-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>125</qty_in_stock>
     </product>
        </subcategory>
         <subcategory name="Lip Gloss">
@@ -764,6 +846,7 @@
             <price>12.05</price>
            <rating>0.0</rating>
            <image>https://www.sephora.com/productimages/sku/s1925965-main-zoom.jpg?imwidth=612</image>
+             <qty_in_stock>200</qty_in_stock>
           </product>
 
         <product>
@@ -774,6 +857,7 @@
           <price>14.46</price>
           <rating>0.0</rating>
           <image>https://media.ulta.com/i/ulta/2299249?w=1080-h=1080-fmt=auto</image>
+            <qty_in_stock>23</qty_in_stock>
        </product>
 
         <product>
@@ -784,6 +868,7 @@
           <price>19.28</price>
           <rating>0.0</rating>
           <image>https://www.sephora.com/productimages/sku/s1494004-main-zoom.jpg?imwidth=612</image>
+            <qty_in_stock>70</qty_in_stock>
        </product>
 
          <product>
@@ -794,6 +879,7 @@
            <price>16.27</price>
            <rating>0.0</rating>
           <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/12716239-1755140327084686.jpg</image>
+            <qty_in_stock>67</qty_in_stock>
         </product>
 
         <product>
@@ -804,6 +890,7 @@
           <price>25.30</price>
           <rating>0.0</rating>
          <image>https://dy6g3i6a1660s.cloudfront.net/sKR3ttTX65g14WWXE3oViQfQB9A/p_550x550-9d/marc-jacobs-beauty-enamored-hi-shine-lip-lacquer-302-allow-me.jpg</image>
+          <qty_in_stock>66</qty_in_stock>
         </product>
 
         <product>
@@ -814,6 +901,7 @@
           <price>19.28</price>
           <rating>0.0</rating>
           <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw0a2fc873/2021/December/Spring_Edit/Lip_Shine/194251077161_1.jpg?sw=856sh=750sm=fit</image>
+          <qty_in_stock>70</qty_in_stock>
         </product>
 
          <product>
@@ -824,6 +912,7 @@
            <price>16.27</price>
            <rating>0.0</rating>
            <image>https://minmaxdeals.com/wp-content/uploads/2023/10/80839.jpg</image>
+             <qty_in_stock>75</qty_in_stock>
         </product>
 
          <product>
@@ -834,6 +923,7 @@
            <price>10.24</price>
            <rating>0.0</rating>
            <image>https://target.scene7.com/is/image/Target/GUEST_efd80580-691d-4bf5-b8c9-468628deda74?wid=1200hei=1200qlt=88fmt=webp</image>
+             <qty_in_stock>98</qty_in_stock>
         </product>
 
 <product>
@@ -844,6 +934,7 @@
     <price>7.23</price>
     <rating>0.0</rating>
     <image>https://media.ulta.com/i/ulta/2612980?w=1080h=1080fmt=auto</image>
+      <qty_in_stock>85</qty_in_stock>
 </product>
 
 <product>
@@ -854,6 +945,7 @@
     <price>14.46</price>
     <rating>0.0</rating>
     <image>https://www.sephora.fr/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw9f0fff65/images/hi-res/SKU/SKU_2360/551071_swatch.jpg</image>
+  <qty_in_stock>70</qty_in_stock>
 </product>
 
         </subcategory>
@@ -869,6 +961,7 @@
         <price>36.00</price>
         <rating>0.0</rating>
         <image>pics\\bb1.webp</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>118</id>
@@ -878,6 +971,7 @@
         <price>21.69</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2741387-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>55</qty_in_stock>
     </product>
     <product>
         <id>119</id>
@@ -887,6 +981,7 @@
         <price>23.00</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2362085-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>50</qty_in_stock>
     </product>
     <product>
         <id>120</id>
@@ -896,6 +991,7 @@
         <price>19.28</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2264638-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>121</id>
@@ -905,6 +1001,7 @@
         <price>18.07</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s1674910-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>62</qty_in_stock>
     </product>
     <product>
         <id>122</id>
@@ -914,6 +1011,7 @@
         <price>14.46</price>
         <rating>0.0</rating>
         <image>https://beautyloops.com/cdn/shop/products/3_238d5ee3-bb46-4326-ab72-021cbe61f2e1_540x.png?v=1623066827</image>
+          <qty_in_stock>45</qty_in_stock>
     </product>
     <product>
         <id>123</id>
@@ -923,6 +1021,7 @@
         <price>26.51</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2378586-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>124</id>
@@ -932,6 +1031,7 @@
         <price>23.49</price>
         <rating>0.0</rating>
         <image>https://www.sephora.com/productimages/sku/s2115905-main-zoom.jpg?imwidth=612</image>
+          <qty_in_stock>55</qty_in_stock>
     </product>
     <product>
         <id>125</id>
@@ -941,6 +1041,7 @@
         <price>6.02</price>
         <rating>0.0</rating>
         <image>https://media.ulta.com/i/ulta/2574635?w=1080-h=1080-fmt=auto</image>
+          <qty_in_stock>45</qty_in_stock>
     </product>
     <product>
         <id>126</id>
@@ -950,6 +1051,7 @@
         <price>20.48</price>
         <rating>0.0</rating>
         <image>https://image-optimizer-reg.production.sephora-asia.net/images/product_images/zoom_1_Product_840026670777-Fenty-Beauty-Cheeks-Out-Freestyle-Cream-Blush-Bigmelons-fc4f49_ca58206b19ff6a869a3abb54abcc18d07e575d0b_1690549644.png</image>
+     <qty_in_stock>70</qty_in_stock>
     </product>
         </subcategory>
         <subcategory name="Bronzer">
@@ -961,6 +1063,7 @@
         <price>18.07</price>
         <rating>0.0</rating>
         <image>https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dw29b5adbc/product_images/HOOLAIB74/Main_d09466_full_hoola_shadeoriginal.jpg?sw=624-sh=624-q=85</image>
+     <qty_in_stock>89</qty_in_stock>
     </product>
     <product>
         <id>128</id>
@@ -970,6 +1073,7 @@
         <price>24.10</price>
         <rating>0.0</rating>
         <image>https://contenthub-delivery.mecca.com/api/public/content/I-031922-I-031922-M1-TooFaced-ChocolateSoleilMatteBronzer.webp?t=w480</image>
+      <qty_in_stock>100</qty_in_stock>
     </product>
     <product>
         <id>129</id>
@@ -979,6 +1083,7 @@
         <price>21.69</price>
         <rating>0.0</rating>
         <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw299f43fd/2023/March/Makeup/LagunaBronzer/Swatches/999NAC0000155_BronzingPowder_Laguna02_1.jpg?sw=856-sh=750-sm=fit</image>
+     <qty_in_stock>75</qty_in_stock>
     </product>
     <product>
         <id>130</id>
@@ -988,6 +1093,7 @@
         <price>19.28</price>
         <rating>0.0</rating>
         <image>https://media.ulta.com/i/ulta/2220039?w=1080-h=1080-fmt=auto</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>131</id>
@@ -997,6 +1103,7 @@
         <price>9.64</price>
         <rating>0.0</rating>
         <image>https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw299f43fd/2023/March/Makeup/LagunaBronzer/Swatches/999NAC0000155_BronzingPowder_Laguna02_1.jpg?sw=856-sh=750-sm=fit</image>
+      <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>132</id>
@@ -1006,6 +1113,7 @@
         <price>14.46</price>
         <rating>0.0</rating>
         <image>https://alsayyedcosmetics.com/web/image/product.product/15089/image_1024/Smashbox%20Bronze%20Lights%20Poudere%20Bronzante%20%28deep%20mate%29?unique=1a83ca2</image>
+     <qty_in_stock>89</qty_in_stock>
     </product>
     <product>
         <id>133</id>
@@ -1015,6 +1123,7 @@
         <price>21.69</price>
         <rating>0.0</rating>
         <image>https://www.arcstore.co.za/Admin/Public/GetImage.ashx?Width=800-Height=800-Crop=5-DoNotUpscale=True-FillCanvas=True-Image=/Files/Images/Ecom/Brands/DEF/FENTY/113624_BAJANGYAL_A.jpg-AlternativeImage=/Images/missing_image.jpg</image>
+      <qty_in_stock>70</qty_in_stock>
     </product>
     <product>
         <id>134</id>
@@ -1024,6 +1133,7 @@
         <price>28.92</price>
         <rating>0.0</rating>
         <image>https://contenthub-delivery.mecca.com/api/public/content/I-021224-I-021224-M1-Hourglass-AmbientLightingBronzer.webp?t=w480</image>
+          <qty_in_stock>65</qty_in_stock>
     </product>
     <product>
         <id>135</id>
@@ -1033,6 +1143,7 @@
         <price>25.30</price>
         <rating>0.0</rating>
         <image>https://images.ctfassets.net/wlke2cbybljx/7crejNRIp47YTMhbowecZd/e0b4769ad90e8bbff576477552d05973/Airbrush_Bronzer_Closed_Packshot.png?w=660-h=660-fit=fill-fm=jpg-bg=</image>
+      <qty_in_stock>67</qty_in_stock>
     </product>
     <product>
         <id>136</id>
@@ -1042,6 +1153,7 @@
         <price>10.84</price>
         <rating>0.0</rating>
         <image>https://www.milani.fr/1363-large_default/silky-matte-bronzing-powder.jpg</image>
+          <qty_in_stock>54</qty_in_stock>
     </product>
         </subcategory>
         <subcategory name="Contour">
@@ -1053,6 +1165,7 @@
     <price>30.12</price>
     <rating>15</rating>
     <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/11347849-9245140540423737.jpg</image>
+      <qty_in_stock>70</qty_in_stock>
 </product>
 <product>
     <id>138</id>
@@ -1062,6 +1175,7 @@
     <price>21.69</price>
     <rating>15</rating>
     <image>https://media.ulta.com/i/ulta/2592591?w=1080-h=1080-fmt=auto</image>
+      <qty_in_stock>87</qty_in_stock>
 </product>
 <product>
     <id>139</id>
@@ -1071,6 +1185,7 @@
     <price>18.67</price>
     <rating>15</rating>
     <image>https://media.ulta.com/i/ulta/2501208?w=1080-h=1080-fmt=auto</image>
+      <qty_in_stock>70</qty_in_stock>
 </product>
 <product>
     <id>140</id>
@@ -1080,6 +1195,7 @@
     <price>26.51</price>
     <rating>15</rating>
     <image>https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dw942b45f2/images/Easy_Bake_2023_Update/EB-LOOSE-PACKSHOTS_BANANA-BREAD.jpg?sw=1024-sh=1024</image>
+  <qty_in_stock>123</qty_in_stock>
 </product>
 <product>
     <id>141</id>
@@ -1089,6 +1205,7 @@
     <price>36.14</price>
     <rating>15</rating>
     <image>https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dwf17de5e4/products/CHARLOTTE/UK200024585_CHARLOTTE.jpg?sw=582-sh=582</image>
+  <qty_in_stock>90</qty_in_stock>
 </product>
 <product>
     <id>142</id>
@@ -1098,6 +1215,7 @@
     <price>30.12</price>
     <rating>15</rating>
     <image>https://www.hourglasscosmetics.com/cdn/shop/files/2000x2000-72dpi_0001_VeilSettingPowder_Open_49829fba-c668-45d9-abbe-ddf2b61c1cfc.png?v=1723659984-width=800</image>
+  <qty_in_stock>89</qty_in_stock>
 </product>
 <product>
     <id>143</id>
@@ -1107,6 +1225,7 @@
     <price>19.28</price>
     <rating>15</rating>
     <image>https://m.media-amazon.com/images/I/61EMBMGPULL._SL1000_.jpg</image>
+      <qty_in_stock>191</qty_in_stock>
 </product>
 <product>
     <id>144</id>
@@ -1116,6 +1235,7 @@
     <price>18.07</price>
     <rating>15</rating>
     <image>https://static.thcdn.com/images/large/webp//productimg/1600/1600/13713983-1245156351859072.jpg</image>
+      <qty_in_stock>67</qty_in_stock>
 </product>
 <product>
     <id>145</id>
@@ -1125,6 +1245,7 @@
     <price>30.12</price>
     <rating>15</rating>
     <image>https://themakeuppro.co.uk/cdn/shop/products/3548752105989_i000042540_uhd_stick_r540_face_0.png?v=1614859066-width=720</image>
+      <qty_in_stock>45</qty_in_stock>
 </product>
 <product>
     <id>146</id>
@@ -1134,6 +1255,7 @@
     <price>9.64</price>
     <rating>15</rating>
     <image>https://media.ulta.com/i/ulta/2595218?w=1080-h=1080-fmt=auto</image>
+      <qty_in_stock>56</qty_in_stock>
 </product>
         </subcategory>
     </category>
